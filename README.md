@@ -2,7 +2,7 @@
 Short-Term Memory (LSTM) and Facebook's Prophet is a project that aims to predict the future stock prices of Google using historical stock data. The goal of the project is to develop models that can accurately predict future stock prices, which can be useful for investors and traders in making buy or sell decisions.
 
 
-## A project to predict the stock price of Google using time series forecasting (TSF) techniques such as long short-term memory (LSTM) and Facebook's Prophet would involve the following steps:
+### A project to predict the stock price of Google using time series forecasting (TSF) techniques such as long short-term memory (LSTM) and Facebook's Prophet would involve the following steps:
 
 1.Collecting historical stock data: The first step would be to collect historical stock data for Google. This data would be used to train and test the TSF models.
 
